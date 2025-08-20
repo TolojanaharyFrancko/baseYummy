@@ -15,6 +15,14 @@
       "stock": 5,
       "minStock": 5,
       "description": "500ml"
+    },
+    {
+      "id": 1755694957667,
+      "name": "test",
+      "price": 52222,
+      "stock": 20,
+      "minStock": 5,
+      "description": "100ml"
     }
   ],
   "orders": [],
@@ -37,8 +45,17 @@
       "quantity": 5,
       "reason": "Stock initial",
       "date": "2025-08-20T13:02:08.603Z"
+    },
+    {
+      "id": 1755694957667,
+      "productId": 1755694957667,
+      "productName": "test",
+      "type": "set",
+      "quantity": 20,
+      "reason": "Stock initial",
+      "date": "2025-08-20T13:02:37.667Z"
     }
   ],
-  "lastSync": "2025-08-20T13:02:08.605Z",
-  "totalRecords": 4
+  "lastSync": "2025-08-20T13:02:37.668Z",
+  "totalRecords": 6
 }
