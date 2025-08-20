@@ -40,7 +40,15 @@
       "total": 15003
     }
   ],
-  "expenses": [],
+  "expenses": [
+    {
+      "id": 1755698517383,
+      "description": "Chocolat ",
+      "amount": 3000,
+      "category": "ingredients",
+      "date": "2025-08-13"
+    }
+  ],
   "stockMovements": [
     {
       "id": 1755693963069,
@@ -115,6 +123,6 @@
       "date": "2025-08-20T13:26:33.365Z"
     }
   ],
-  "lastSync": "2025-08-20T13:26:33.374Z",
-  "totalRecords": 11
+  "lastSync": "2025-08-20T14:01:57.407Z",
+  "totalRecords": 12
 }
