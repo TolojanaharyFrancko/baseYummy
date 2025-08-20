@@ -47,6 +47,14 @@
       "stock": 0,
       "minStock": 0,
       "description": "1L"
+    },
+    {
+      "id": 1755702939086,
+      "name": "BARQUETTE SPECIALE",
+      "price": 30000,
+      "stock": 0,
+      "minStock": 0,
+      "description": "1L"
     }
   ],
   "orders": [
@@ -216,8 +224,17 @@
       "quantity": 0,
       "reason": "Stock initial",
       "date": "2025-08-20T15:15:04.225Z"
+    },
+    {
+      "id": 1755702939087,
+      "productId": 1755702939086,
+      "productName": "BARQUETTE SPECIALE",
+      "type": "set",
+      "quantity": 0,
+      "reason": "Stock initial",
+      "date": "2025-08-20T15:15:39.087Z"
     }
   ],
-  "lastSync": "2025-08-20T15:15:04.280Z",
-  "totalRecords": 23
+  "lastSync": "2025-08-20T15:15:39.161Z",
+  "totalRecords": 25
 }
