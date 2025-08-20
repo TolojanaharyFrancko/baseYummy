@@ -1,1 +1,26 @@
-
+{
+  "products": [
+    {
+      "id": 1755693474438,
+      "name": "Glace",
+      "price": 13000,
+      "stock": 15,
+      "minStock": 5,
+      "description": "500ml"
+    }
+  ],
+  "orders": [],
+  "expenses": [],
+  "stockMovements": [
+    {
+      "id": 1755693474438,
+      "productId": 1755693474438,
+      "productName": "Glace",
+      "type": "set",
+      "quantity": 15,
+      "reason": "Stock initial",
+      "date": "2025-08-20T12:37:54.438Z"
+    }
+  ],
+  "lastSync": "2025-08-20T12:38:48.477Z"
+}
