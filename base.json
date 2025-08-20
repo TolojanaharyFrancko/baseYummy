@@ -1,14 +1,5 @@
 {
-  "products": [
-    {
-      "id": 1755702446159,
-      "name": "Petit pot ",
-      "price": 2500,
-      "stock": 0,
-      "minStock": 0,
-      "description": "125 ml"
-    }
-  ],
+  "products": [],
   "orders": [
     {
       "id": 1755696393364,
@@ -124,6 +115,6 @@
       "date": "2025-08-20T15:07:26.160Z"
     }
   ],
-  "lastSync": "2025-08-20T15:07:26.182Z",
-  "totalRecords": 12
+  "lastSync": "2025-08-20T15:07:49.782Z",
+  "totalRecords": 11
 }
