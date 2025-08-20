@@ -6,7 +6,7 @@
       "price": 2500,
       "stock": 0,
       "minStock": 0,
-      "description": "125 ML"
+      "description": "124 ML"
     },
     {
       "id": 1755702603522,
@@ -282,6 +282,6 @@
       "date": "2025-08-20T15:23:41.021Z"
     }
   ],
-  "lastSync": "2025-08-20T16:02:45.958Z",
+  "lastSync": "2025-08-20T16:03:13.998Z",
   "totalRecords": 32
 }
