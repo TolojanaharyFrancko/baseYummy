@@ -15,6 +15,14 @@
       "stock": 5,
       "minStock": 5,
       "description": "500ml"
+    },
+    {
+      "id": 1755696210856,
+      "name": "Choco taco ",
+      "price": 5000,
+      "stock": 12,
+      "minStock": 8,
+      "description": "Glace vanille, cornet et coque en chocolat "
     }
   ],
   "orders": [],
@@ -55,8 +63,17 @@
       "quantity": 50,
       "reason": "Stock initial",
       "date": "2025-08-20T13:03:13.875Z"
+    },
+    {
+      "id": 1755696210856,
+      "productId": 1755696210856,
+      "productName": "Choco taco ",
+      "type": "set",
+      "quantity": 12,
+      "reason": "Stock initial",
+      "date": "2025-08-20T13:23:30.856Z"
     }
   ],
-  "lastSync": "2025-08-20T13:22:29.972Z",
-  "totalRecords": 6
+  "lastSync": "2025-08-20T13:23:30.858Z",
+  "totalRecords": 8
 }
