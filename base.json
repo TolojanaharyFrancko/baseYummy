@@ -63,14 +63,6 @@
       "stock": 0,
       "minStock": 0,
       "description": "Entier"
-    },
-    {
-      "id": 1755703203643,
-      "name": "GÂTEAU BISCUIT",
-      "price": 21000,
-      "stock": 0,
-      "minStock": 5,
-      "description": ""
     }
   ],
   "orders": [
@@ -269,6 +261,6 @@
       "date": "2025-08-20T15:20:03.643Z"
     }
   ],
-  "lastSync": "2025-08-20T15:20:03.677Z",
-  "totalRecords": 29
+  "lastSync": "2025-08-20T15:20:16.193Z",
+  "totalRecords": 28
 }
