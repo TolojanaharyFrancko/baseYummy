@@ -1,14 +1,5 @@
 {
-  "products": [
-    {
-      "id": 1755693963069,
-      "name": "Glace",
-      "price": 130000,
-      "stock": 15,
-      "minStock": 0,
-      "description": "teqst"
-    }
-  ],
+  "products": [],
   "orders": [],
   "expenses": [],
   "stockMovements": [
@@ -58,6 +49,6 @@
       "date": "2025-08-20T13:23:30.856Z"
     }
   ],
-  "lastSync": "2025-08-20T13:23:50.468Z",
-  "totalRecords": 6
+  "lastSync": "2025-08-20T13:23:53.294Z",
+  "totalRecords": 5
 }
