@@ -7,14 +7,6 @@
       "stock": 15,
       "minStock": 0,
       "description": "teqst"
-    },
-    {
-      "id": 1755694928603,
-      "name": "Glace speciale",
-      "price": 15000,
-      "stock": 5,
-      "minStock": 5,
-      "description": "500ml"
     }
   ],
   "orders": [],
@@ -66,6 +58,6 @@
       "date": "2025-08-20T13:23:30.856Z"
     }
   ],
-  "lastSync": "2025-08-20T13:23:48.192Z",
-  "totalRecords": 7
+  "lastSync": "2025-08-20T13:23:50.468Z",
+  "totalRecords": 6
 }
