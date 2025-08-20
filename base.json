@@ -81,29 +81,7 @@
       "description": "Entier"
     }
   ],
-  "orders": [
-    {
-      "id": 1755696393364,
-      "date": "20/08/2025",
-      "client": {
-        "name": "Aina ",
-        "phone": "0330501337",
-        "deliveryLocation": "Mahatony ",
-        "deliveryDate": "2025-08-20"
-      },
-      "items": [
-        {
-          "productId": 1755696383177,
-          "name": "Choco taco ",
-          "price": 5000,
-          "quantity": 3
-        }
-      ],
-      "subtotal": 15000,
-      "deliveryFee": 3,
-      "total": 15003
-    }
-  ],
+  "orders": [],
   "expenses": [
     {
       "id": 1755698517383,
@@ -304,6 +282,6 @@
       "date": "2025-08-20T15:23:41.021Z"
     }
   ],
-  "lastSync": "2025-08-20T15:24:01.218Z",
-  "totalRecords": 33
+  "lastSync": "2025-08-20T15:32:17.209Z",
+  "totalRecords": 32
 }
