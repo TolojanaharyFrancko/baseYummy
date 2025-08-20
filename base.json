@@ -12,12 +12,34 @@
       "id": 1755696383177,
       "name": "Choco taco ",
       "price": 5000,
-      "stock": 5,
+      "stock": 2,
       "minStock": 5,
       "description": "250ml"
     }
   ],
-  "orders": [],
+  "orders": [
+    {
+      "id": 1755696393364,
+      "date": "20/08/2025",
+      "client": {
+        "name": "Aina ",
+        "phone": "0330501337",
+        "deliveryLocation": "Mahatony ",
+        "deliveryDate": "2025-08-20"
+      },
+      "items": [
+        {
+          "productId": 1755696383177,
+          "name": "Choco taco ",
+          "price": 5000,
+          "quantity": 3
+        }
+      ],
+      "subtotal": 15000,
+      "deliveryFee": 3,
+      "total": 15003
+    }
+  ],
   "expenses": [],
   "stockMovements": [
     {
@@ -82,8 +104,17 @@
       "quantity": 5,
       "reason": "Stock initial",
       "date": "2025-08-20T13:26:23.177Z"
+    },
+    {
+      "id": 1755696393365.8022,
+      "productId": 1755696383177,
+      "productName": "Choco taco ",
+      "type": "remove",
+      "quantity": 3,
+      "reason": "Vente - Commande #1755696393364",
+      "date": "2025-08-20T13:26:33.365Z"
     }
   ],
-  "lastSync": "2025-08-20T13:26:23.181Z",
-  "totalRecords": 9
+  "lastSync": "2025-08-20T13:26:33.374Z",
+  "totalRecords": 11
 }
