@@ -55,6 +55,14 @@
       "stock": 0,
       "minStock": 0,
       "description": "1L"
+    },
+    {
+      "id": 1755703130283,
+      "name": "FLAN ",
+      "price": 30000,
+      "stock": 0,
+      "minStock": 0,
+      "description": "Entier"
     }
   ],
   "orders": [
@@ -233,8 +241,17 @@
       "quantity": 0,
       "reason": "Stock initial",
       "date": "2025-08-20T15:15:39.087Z"
+    },
+    {
+      "id": 1755703130284,
+      "productId": 1755703130283,
+      "productName": "FLAN ",
+      "type": "set",
+      "quantity": 0,
+      "reason": "Stock initial",
+      "date": "2025-08-20T15:18:50.284Z"
     }
   ],
-  "lastSync": "2025-08-20T15:15:39.161Z",
-  "totalRecords": 25
+  "lastSync": "2025-08-20T15:18:50.345Z",
+  "totalRecords": 27
 }
