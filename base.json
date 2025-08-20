@@ -7,6 +7,14 @@
       "stock": 15,
       "minStock": 0,
       "description": "teqst"
+    },
+    {
+      "id": 1755694928603,
+      "name": "Glace speciale",
+      "price": 15000,
+      "stock": 5,
+      "minStock": 5,
+      "description": "500ml"
     }
   ],
   "orders": [],
@@ -20,7 +28,17 @@
       "quantity": 15,
       "reason": "Stock initial",
       "date": "2025-08-20T12:46:03.069Z"
+    },
+    {
+      "id": 1755694928603,
+      "productId": 1755694928603,
+      "productName": "Glace speciale",
+      "type": "set",
+      "quantity": 5,
+      "reason": "Stock initial",
+      "date": "2025-08-20T13:02:08.603Z"
     }
   ],
-  "lastSync": "2025-08-20T12:49:47.590Z"
+  "lastSync": "2025-08-20T13:02:08.605Z",
+  "totalRecords": 4
 }
