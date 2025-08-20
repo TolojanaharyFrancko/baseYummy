@@ -31,6 +31,14 @@
       "stock": 0,
       "minStock": 0,
       "description": "500ML"
+    },
+    {
+      "id": 1755702832203,
+      "name": "GOBELET SPECIAL",
+      "price": 15000,
+      "stock": 0,
+      "minStock": 0,
+      "description": "500ML"
     }
   ],
   "orders": [
@@ -182,8 +190,17 @@
       "quantity": 0,
       "reason": "Stock initial",
       "date": "2025-08-20T15:12:26.257Z"
+    },
+    {
+      "id": 1755702832203,
+      "productId": 1755702832203,
+      "productName": "GOBELET SPECIAL",
+      "type": "set",
+      "quantity": 0,
+      "reason": "Stock initial",
+      "date": "2025-08-20T15:13:52.203Z"
     }
   ],
-  "lastSync": "2025-08-20T15:12:26.280Z",
-  "totalRecords": 19
+  "lastSync": "2025-08-20T15:13:52.246Z",
+  "totalRecords": 21
 }
