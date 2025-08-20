@@ -1,14 +1,5 @@
 {
-  "products": [
-    {
-      "id": 1755696383177,
-      "name": "Choco taco ",
-      "price": 5000,
-      "stock": 2,
-      "minStock": 5,
-      "description": "250ml"
-    }
-  ],
+  "products": [],
   "orders": [
     {
       "id": 1755696393364,
@@ -115,6 +106,6 @@
       "date": "2025-08-20T13:26:33.365Z"
     }
   ],
-  "lastSync": "2025-08-20T15:02:25.082Z",
-  "totalRecords": 11
+  "lastSync": "2025-08-20T15:02:30.209Z",
+  "totalRecords": 10
 }
