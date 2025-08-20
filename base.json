@@ -63,6 +63,14 @@
       "stock": 0,
       "minStock": 0,
       "description": "6 portions "
+    },
+    {
+      "id": 1755703380431,
+      "name": "GÂTEAU BISCUIT",
+      "price": 42000,
+      "stock": 0,
+      "minStock": 0,
+      "description": "12 portions"
     }
   ],
   "orders": [
@@ -268,8 +276,17 @@
       "quantity": 0,
       "reason": "Stock initial",
       "date": "2025-08-20T15:22:13.269Z"
+    },
+    {
+      "id": 1755703380431,
+      "productId": 1755703380431,
+      "productName": "GÂTEAU BISCUIT",
+      "type": "set",
+      "quantity": 0,
+      "reason": "Stock initial",
+      "date": "2025-08-20T15:23:00.431Z"
     }
   ],
-  "lastSync": "2025-08-20T15:22:13.291Z",
-  "totalRecords": 29
+  "lastSync": "2025-08-20T15:23:00.470Z",
+  "totalRecords": 31
 }
