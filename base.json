@@ -71,6 +71,14 @@
       "stock": 0,
       "minStock": 0,
       "description": "12 portions"
+    },
+    {
+      "id": 1755703421021,
+      "name": "FLAN ",
+      "price": 30000,
+      "stock": 0,
+      "minStock": 0,
+      "description": "Entier"
     }
   ],
   "orders": [
@@ -285,8 +293,17 @@
       "quantity": 0,
       "reason": "Stock initial",
       "date": "2025-08-20T15:23:00.431Z"
+    },
+    {
+      "id": 1755703421021,
+      "productId": 1755703421021,
+      "productName": "FLAN ",
+      "type": "set",
+      "quantity": 0,
+      "reason": "Stock initial",
+      "date": "2025-08-20T15:23:41.021Z"
     }
   ],
-  "lastSync": "2025-08-20T15:23:00.470Z",
-  "totalRecords": 31
+  "lastSync": "2025-08-20T15:23:41.077Z",
+  "totalRecords": 33
 }
