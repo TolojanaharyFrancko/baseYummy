@@ -23,6 +23,14 @@
       "stock": 20,
       "minStock": 5,
       "description": "100ml"
+    },
+    {
+      "id": 1755694993875,
+      "name": "Glace Speciale 2",
+      "price": 5222222,
+      "stock": 50,
+      "minStock": 5,
+      "description": "15"
     }
   ],
   "orders": [],
@@ -54,8 +62,17 @@
       "quantity": 20,
       "reason": "Stock initial",
       "date": "2025-08-20T13:02:37.667Z"
+    },
+    {
+      "id": 1755694993875,
+      "productId": 1755694993875,
+      "productName": "Glace Speciale 2",
+      "type": "set",
+      "quantity": 50,
+      "reason": "Stock initial",
+      "date": "2025-08-20T13:03:13.875Z"
     }
   ],
-  "lastSync": "2025-08-20T13:02:37.668Z",
-  "totalRecords": 6
+  "lastSync": "2025-08-20T13:03:13.877Z",
+  "totalRecords": 8
 }
