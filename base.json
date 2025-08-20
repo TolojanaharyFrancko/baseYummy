@@ -1,14 +1,6 @@
 {
   "products": [
     {
-      "id": 1755696286564,
-      "name": "Gobelet classique ",
-      "price": 9000,
-      "stock": 0,
-      "minStock": 0,
-      "description": "500ml "
-    },
-    {
       "id": 1755696383177,
       "name": "Choco taco ",
       "price": 5000,
@@ -123,6 +115,6 @@
       "date": "2025-08-20T13:26:33.365Z"
     }
   ],
-  "lastSync": "2025-08-20T14:01:57.407Z",
-  "totalRecords": 12
+  "lastSync": "2025-08-20T15:02:25.082Z",
+  "totalRecords": 11
 }
