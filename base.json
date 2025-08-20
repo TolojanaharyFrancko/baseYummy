@@ -39,6 +39,14 @@
       "stock": 0,
       "minStock": 0,
       "description": "500ML"
+    },
+    {
+      "id": 1755702904225,
+      "name": "BARQUETTE CLASSIQUE",
+      "price": 18000,
+      "stock": 0,
+      "minStock": 0,
+      "description": "1L"
     }
   ],
   "orders": [
@@ -199,8 +207,17 @@
       "quantity": 0,
       "reason": "Stock initial",
       "date": "2025-08-20T15:13:52.203Z"
+    },
+    {
+      "id": 1755702904225,
+      "productId": 1755702904225,
+      "productName": "BARQUETTE CLASSIQUE",
+      "type": "set",
+      "quantity": 0,
+      "reason": "Stock initial",
+      "date": "2025-08-20T15:15:04.225Z"
     }
   ],
-  "lastSync": "2025-08-20T15:13:52.246Z",
-  "totalRecords": 21
+  "lastSync": "2025-08-20T15:15:04.280Z",
+  "totalRecords": 23
 }
