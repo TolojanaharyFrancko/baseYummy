@@ -23,6 +23,14 @@
       "stock": 0,
       "minStock": 0,
       "description": ""
+    },
+    {
+      "id": 1755702746256,
+      "name": "GOBELET CLASSIQUE ",
+      "price": 11000,
+      "stock": 0,
+      "minStock": 0,
+      "description": "500ML"
     }
   ],
   "orders": [
@@ -165,8 +173,17 @@
       "quantity": 0,
       "reason": "Stock initial",
       "date": "2025-08-20T15:11:31.625Z"
+    },
+    {
+      "id": 1755702746257,
+      "productId": 1755702746256,
+      "productName": "GOBELET CLASSIQUE ",
+      "type": "set",
+      "quantity": 0,
+      "reason": "Stock initial",
+      "date": "2025-08-20T15:12:26.257Z"
     }
   ],
-  "lastSync": "2025-08-20T15:11:31.641Z",
-  "totalRecords": 17
+  "lastSync": "2025-08-20T15:12:26.280Z",
+  "totalRecords": 19
 }
