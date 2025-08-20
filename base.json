@@ -7,6 +7,14 @@
       "stock": 0,
       "minStock": 0,
       "description": "500ml "
+    },
+    {
+      "id": 1755696383177,
+      "name": "Choco taco ",
+      "price": 5000,
+      "stock": 5,
+      "minStock": 5,
+      "description": "250ml"
     }
   ],
   "orders": [],
@@ -65,8 +73,17 @@
       "quantity": 0,
       "reason": "Stock initial",
       "date": "2025-08-20T13:24:46.564Z"
+    },
+    {
+      "id": 1755696383177,
+      "productId": 1755696383177,
+      "productName": "Choco taco ",
+      "type": "set",
+      "quantity": 5,
+      "reason": "Stock initial",
+      "date": "2025-08-20T13:26:23.177Z"
     }
   ],
-  "lastSync": "2025-08-20T13:24:46.567Z",
-  "totalRecords": 7
+  "lastSync": "2025-08-20T13:26:23.181Z",
+  "totalRecords": 9
 }
