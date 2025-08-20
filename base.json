@@ -44,7 +44,7 @@
       "id": 1755702904225,
       "name": "BARQUETTE CLASSIQUE",
       "price": 18000,
-      "stock": 0,
+      "stock": 1000,
       "minStock": 0,
       "description": "1L"
     },
@@ -404,8 +404,17 @@
       "quantity": 3,
       "reason": "Vente - Commande #1755707132655",
       "date": "2025-08-20T16:25:32.656Z"
+    },
+    {
+      "id": 1755708682733,
+      "productId": 1755702904225,
+      "productName": "BARQUETTE CLASSIQUE",
+      "type": "set",
+      "quantity": 1000,
+      "reason": "Ajustement manuel",
+      "date": "2025-08-20T16:51:22.733Z"
     }
   ],
-  "lastSync": "2025-08-20T16:25:32.724Z",
-  "totalRecords": 41
+  "lastSync": "2025-08-20T16:51:22.744Z",
+  "totalRecords": 42
 }
