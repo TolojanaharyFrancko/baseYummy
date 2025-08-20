@@ -20,7 +20,7 @@
       "id": 1755702691624,
       "name": "CHOCO TACO",
       "price": 5000,
-      "stock": 0,
+      "stock": 50,
       "minStock": 0,
       "description": ""
     },
@@ -289,8 +289,17 @@
       "quantity": 50,
       "reason": "Ajustement manuel",
       "date": "2025-08-20T16:06:39.996Z"
+    },
+    {
+      "id": 1755706007075,
+      "productId": 1755702691624,
+      "productName": "CHOCO TACO",
+      "type": "add",
+      "quantity": 50,
+      "reason": "Ajustement manuel",
+      "date": "2025-08-20T16:06:47.075Z"
     }
   ],
-  "lastSync": "2025-08-20T16:06:40.003Z",
-  "totalRecords": 33
+  "lastSync": "2025-08-20T16:06:47.082Z",
+  "totalRecords": 34
 }
