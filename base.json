@@ -7,6 +7,14 @@
       "stock": 0,
       "minStock": 0,
       "description": "125 ML"
+    },
+    {
+      "id": 1755702603522,
+      "name": "GLACE EN BÂTONNET",
+      "price": 4000,
+      "stock": 0,
+      "minStock": 0,
+      "description": "500ML"
     }
   ],
   "orders": [
@@ -131,8 +139,17 @@
       "quantity": 0,
       "reason": "Stock initial",
       "date": "2025-08-20T15:08:16.726Z"
+    },
+    {
+      "id": 1755702603522,
+      "productId": 1755702603522,
+      "productName": "GLACE EN BÂTONNET",
+      "type": "set",
+      "quantity": 0,
+      "reason": "Stock initial",
+      "date": "2025-08-20T15:10:03.522Z"
     }
   ],
-  "lastSync": "2025-08-20T15:08:16.759Z",
-  "totalRecords": 13
+  "lastSync": "2025-08-20T15:10:03.567Z",
+  "totalRecords": 15
 }
