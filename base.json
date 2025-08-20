@@ -4,7 +4,7 @@
       "id": 1755702496726,
       "name": "PETIT POT",
       "price": 2500,
-      "stock": 50,
+      "stock": 25,
       "minStock": 0,
       "description": "125 ML"
     },
@@ -20,7 +20,7 @@
       "id": 1755702691624,
       "name": "CHOCO TACO",
       "price": 5000,
-      "stock": 50,
+      "stock": 35,
       "minStock": 0,
       "description": ""
     },
@@ -81,7 +81,35 @@
       "description": "Entier"
     }
   ],
-  "orders": [],
+  "orders": [
+    {
+      "id": 1755706027155,
+      "date": "20/08/2025",
+      "client": {
+        "name": "Francko",
+        "phone": "0344387540",
+        "deliveryLocation": "Soavimaoandro",
+        "deliveryDate": "2025-08-22"
+      },
+      "items": [
+        {
+          "productId": 1755702496726,
+          "name": "PETIT POT",
+          "price": 2500,
+          "quantity": 25
+        },
+        {
+          "productId": 1755702691624,
+          "name": "CHOCO TACO",
+          "price": 5000,
+          "quantity": 15
+        }
+      ],
+      "subtotal": 137500,
+      "deliveryFee": 4000,
+      "total": 141500
+    }
+  ],
   "expenses": [
     {
       "id": 1755698517383,
@@ -298,8 +326,26 @@
       "quantity": 50,
       "reason": "Ajustement manuel",
       "date": "2025-08-20T16:06:47.075Z"
+    },
+    {
+      "id": 1755706027155.8567,
+      "productId": 1755702496726,
+      "productName": "PETIT POT",
+      "type": "remove",
+      "quantity": 25,
+      "reason": "Vente - Commande #1755706027155",
+      "date": "2025-08-20T16:07:07.155Z"
+    },
+    {
+      "id": 1755706027155.9146,
+      "productId": 1755702691624,
+      "productName": "CHOCO TACO",
+      "type": "remove",
+      "quantity": 15,
+      "reason": "Vente - Commande #1755706027155",
+      "date": "2025-08-20T16:07:07.155Z"
     }
   ],
-  "lastSync": "2025-08-20T16:06:47.082Z",
-  "totalRecords": 34
+  "lastSync": "2025-08-20T16:07:07.166Z",
+  "totalRecords": 37
 }
