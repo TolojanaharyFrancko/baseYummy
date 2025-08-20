@@ -4,7 +4,7 @@
       "id": 1755702496726,
       "name": "PETIT POT",
       "price": 2500,
-      "stock": 17,
+      "stock": 14,
       "minStock": 0,
       "description": "125 ML"
     },
@@ -129,6 +129,27 @@
       "subtotal": 20000,
       "deliveryFee": 6000,
       "total": 26000
+    },
+    {
+      "id": 1755707132655,
+      "date": "20/08/2025",
+      "client": {
+        "name": "jacqueline",
+        "phone": "0330501337",
+        "deliveryLocation": "soavimasoandro",
+        "deliveryDate": "32025-05-12"
+      },
+      "items": [
+        {
+          "productId": 1755702496726,
+          "name": "PETIT POT",
+          "price": 2500,
+          "quantity": 3
+        }
+      ],
+      "subtotal": 7500,
+      "deliveryFee": 3,
+      "total": 7503
     }
   ],
   "expenses": [
@@ -374,8 +395,17 @@
       "quantity": 8,
       "reason": "Vente - Commande #1755706158063",
       "date": "2025-08-20T16:09:18.063Z"
+    },
+    {
+      "id": 1755707132656.3423,
+      "productId": 1755702496726,
+      "productName": "PETIT POT",
+      "type": "remove",
+      "quantity": 3,
+      "reason": "Vente - Commande #1755707132655",
+      "date": "2025-08-20T16:25:32.656Z"
     }
   ],
-  "lastSync": "2025-08-20T16:20:50.728Z",
-  "totalRecords": 39
+  "lastSync": "2025-08-20T16:25:32.724Z",
+  "totalRecords": 41
 }
