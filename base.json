@@ -1,5 +1,14 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": 1755696286564,
+      "name": "Gobelet classique ",
+      "price": 9000,
+      "stock": 0,
+      "minStock": 0,
+      "description": "500ml "
+    }
+  ],
   "orders": [],
   "expenses": [],
   "stockMovements": [
@@ -47,8 +56,17 @@
       "quantity": 12,
       "reason": "Stock initial",
       "date": "2025-08-20T13:23:30.856Z"
+    },
+    {
+      "id": 1755696286564,
+      "productId": 1755696286564,
+      "productName": "Gobelet classique ",
+      "type": "set",
+      "quantity": 0,
+      "reason": "Stock initial",
+      "date": "2025-08-20T13:24:46.564Z"
     }
   ],
-  "lastSync": "2025-08-20T13:23:53.294Z",
-  "totalRecords": 5
+  "lastSync": "2025-08-20T13:24:46.567Z",
+  "totalRecords": 7
 }
