@@ -4,7 +4,7 @@
       "id": 1755702496726,
       "name": "PETIT POT",
       "price": 2500,
-      "stock": 0,
+      "stock": 50,
       "minStock": 0,
       "description": "125 ML"
     },
@@ -280,8 +280,17 @@
       "quantity": 0,
       "reason": "Stock initial",
       "date": "2025-08-20T15:23:41.021Z"
+    },
+    {
+      "id": 1755705999996,
+      "productId": 1755702496726,
+      "productName": "PETIT POT",
+      "type": "add",
+      "quantity": 50,
+      "reason": "Ajustement manuel",
+      "date": "2025-08-20T16:06:39.996Z"
     }
   ],
-  "lastSync": "2025-08-20T16:03:38.933Z",
-  "totalRecords": 32
+  "lastSync": "2025-08-20T16:06:40.003Z",
+  "totalRecords": 33
 }
