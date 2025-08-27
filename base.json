@@ -5,7 +5,7 @@
       "name": "CHOCO TACO",
       "price": 5000,
       "stock": 69,
-      "minStock": 0,
+      "minStock": 34,
       "description": ""
     },
     {
@@ -443,6 +443,6 @@
       "date": "2025-08-27T09:31:59.400Z"
     }
   ],
-  "lastSync": "2025-08-27T09:31:59.406Z",
+  "lastSync": "2025-08-27T09:32:18.751Z",
   "totalRecords": 45
 }
