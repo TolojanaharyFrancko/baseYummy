@@ -1,14 +1,6 @@
 {
   "products": [
     {
-      "id": 1755702603522,
-      "name": "GLACE EN BÂTONNET",
-      "price": 4000,
-      "stock": 0,
-      "minStock": 0,
-      "description": "500ML"
-    },
-    {
       "id": 1755702691624,
       "name": "CHOCO TACO",
       "price": 5000,
@@ -425,6 +417,6 @@
       "date": "2025-08-20T16:52:00.094Z"
     }
   ],
-  "lastSync": "2025-08-27T09:30:31.607Z",
-  "totalRecords": 43
+  "lastSync": "2025-08-27T09:30:33.301Z",
+  "totalRecords": 42
 }
