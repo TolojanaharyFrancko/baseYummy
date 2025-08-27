@@ -1,14 +1,6 @@
 {
   "products": [
     {
-      "id": 1755702496726,
-      "name": "PETIT POT",
-      "price": 2500,
-      "stock": 20,
-      "minStock": 0,
-      "description": "125 ML"
-    },
-    {
       "id": 1755702603522,
       "name": "GLACE EN BÂTONNET",
       "price": 4000,
@@ -433,6 +425,6 @@
       "date": "2025-08-20T16:52:00.094Z"
     }
   ],
-  "lastSync": "2025-08-21T06:20:49.672Z",
-  "totalRecords": 44
+  "lastSync": "2025-08-27T09:30:31.607Z",
+  "totalRecords": 43
 }
